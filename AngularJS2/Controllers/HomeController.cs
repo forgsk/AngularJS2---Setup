@@ -13,5 +13,9 @@ namespace AngularJS2.Controllers
         {
             return View();
         }
+        public ActionResult Courses()
+        {
+            return View();
+        }
     }
 }
